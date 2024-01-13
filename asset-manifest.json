@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mwichabePortfolio%20/static/css/main.99f8a8ca.css",
-    "main.js": "/mwichabePortfolio%20/static/js/main.a1ba1eba.js",
+    "main.js": "/mwichabePortfolio%20/static/js/main.1aab02cf.js",
     "static/js/787.d4aba7ab.chunk.js": "/mwichabePortfolio%20/static/js/787.d4aba7ab.chunk.js",
     "static/media/codeEditor.png": "/mwichabePortfolio%20/static/media/codeEditor.5decb8fad50f97109bc5.png",
     "static/media/MyResume.pdf": "/mwichabePortfolio%20/static/media/MyResume.5aa7eb900c73a2396b50.pdf",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/mwichabePortfolio%20/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/mwichabePortfolio%20/index.html",
     "main.99f8a8ca.css.map": "/mwichabePortfolio%20/static/css/main.99f8a8ca.css.map",
-    "main.a1ba1eba.js.map": "/mwichabePortfolio%20/static/js/main.a1ba1eba.js.map",
+    "main.1aab02cf.js.map": "/mwichabePortfolio%20/static/js/main.1aab02cf.js.map",
     "787.d4aba7ab.chunk.js.map": "/mwichabePortfolio%20/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99f8a8ca.css",
-    "static/js/main.a1ba1eba.js"
+    "static/js/main.1aab02cf.js"
   ]
 }
