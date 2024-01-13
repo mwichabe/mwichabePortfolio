@@ -15,9 +15,9 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+            <span className="purple"> LET ME INTRODUCE MYSELF </span> 
             </h1>
-            <p className="home-about-body">
+            <p className="home-about-body" style={{ color: 'black' }}>
             I'm a passionate software developer with a love for coding.
               <br />
               <br />I am fluent in classics like
@@ -46,7 +46,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> Flutter and Flask</b>
+                <b className="purple"> Flutter, React , React Native</b>
               </i>
             </p>
           </Col>
